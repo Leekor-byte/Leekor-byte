@@ -14,5 +14,5 @@
 - 📊 [Superstore Sales Dashboard](https://github.com/Leekor-byte/superstore-sales-dashboard) — Power BI, star schema, 10+ DAX-мер
 - 🎮 [Pokemon Analysis](https://github.com/Leekor-byte/pokemon-analysis) — ML-пет-проект, Random Forest (ROC-AUC 0.97)
 
-**Контакты:**
-Telegram — [@Leek0r](https://t.me/Leek0r) · Email — lpyarkiev@yandex.ru
+**Контакт:**
+Telegram — [@Leek0r](https://t.me/Leek0r)
